@@ -371,11 +371,11 @@ function PiMultiplier(n) {
 console.log("\n=== 1.2.28 Демонстрація PiMultiplier ===");
 
 var piTimes2 = PiMultiplier(2);
-var piTimes3over2 = PiMultiplier(3 / 2);
+var piTimes2over3 = PiMultiplier(2 / 3);
 var piDivBy2 = PiMultiplier(1 / 2);
 
 console.log("π × 2 = " + piTimes2());
-console.log("π × 3/2 = " + piTimes3over2());
+console.log("π × 2/3 = " + piTimes2over3());
 console.log("π / 2 = " + piDivBy2());
 
 // --- 1.2.29 Функція Painter ---
