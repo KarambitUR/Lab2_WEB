@@ -1,0 +1,37 @@
+{
+    "categoryName": "Геймінг",
+    "items": [
+        {
+            "id": 401,
+            "name": "PlayStation 5",
+            "shortname": "ps5",
+            "description": "Ігрова консоль нового покоління від Sony.",
+            "price": "22 999 ₴",
+            "image": "https://placehold.co/200x200/ffffff/000000?text=PS5"
+        },
+        {
+            "id": 402,
+            "name": "Xbox Series X",
+            "shortname": "xbox-series-x",
+            "description": "Найпотужніша консоль Xbox для ігор у 4K.",
+            "price": "21 500 ₴",
+            "image": "https://placehold.co/200x200/2ecc71/ffffff?text=Xbox+Series+X"
+        },
+        {
+            "id": 403,
+            "name": "Nintendo Switch OLED",
+            "shortname": "nintendo-switch",
+            "description": "Портативна консоль з яскравим OLED дисплеєм.",
+            "price": "14 000 ₴",
+            "image": "https://placehold.co/200x200/e74c3c/ffffff?text=Nintendo+Switch"
+        },
+        {
+            "id": 404,
+            "name": "Razer DeathAdder V3 Pro",
+            "shortname": "razer-deathadder",
+            "description": "Надлегка бездротова кіберспортивна миша.",
+            "price": "6 500 ₴",
+            "image": "https://placehold.co/200x200/000000/2ecc71?text=Razer+Mouse"
+        }
+    ]
+}

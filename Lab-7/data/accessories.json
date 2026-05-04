@@ -1,0 +1,37 @@
+{
+    "categoryName": "Аксесуари",
+    "items": [
+        {
+            "id": 301,
+            "name": "AirPods Pro 2",
+            "shortname": "airpods-pro-2",
+            "description": "Бездротові навушники з активним шумозаглушенням.",
+            "price": "10 500 ₴",
+            "image": "https://placehold.co/200x200/ffffff/000000?text=AirPods+Pro"
+        },
+        {
+            "id": 302,
+            "name": "Anker 737 Power Bank",
+            "shortname": "anker-737",
+            "description": "Повербанк на 24000 mAh з вихідною потужністю 140W.",
+            "price": "5 500 ₴",
+            "image": "https://placehold.co/200x200/34495e/ffffff?text=Anker+PowerBank"
+        },
+        {
+            "id": 303,
+            "name": "Sony WH-1000XM5",
+            "shortname": "sony-xm5",
+            "description": "Повнорозмірні навушники з найкращим шумозаглушенням на ринку.",
+            "price": "14 000 ₴",
+            "image": "https://placehold.co/200x200/2c3e50/ffffff?text=Sony+XM5"
+        },
+        {
+            "id": 304,
+            "name": "MagSafe Charger",
+            "shortname": "magsafe-charger",
+            "description": "Бездротова зарядка для iPhone з магнітним кріпленням.",
+            "price": "1 999 ₴",
+            "image": "https://placehold.co/200x200/ecf0f1/bdc3c7?text=MagSafe"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TechHaven - Каталог техніки</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Navigation -->
+        <header class="header">
+            <div class="logo">
+                <span class="gradient-text">TechHaven</span>
+            </div>
+            <nav class="nav">
+                <!-- href="index.html" reloads the page -->
+                <a href="index.html" class="nav-link">Додому</a>
+                <!-- href="#" with id prevents default and loads via Ajax -->
+                <a href="#" id="catalog-link" class="nav-link btn-primary">Каталог</a>
+            </nav>
+        </header>
+
+        <!-- Main Content Area -->
+        <main id="app-content" class="main-content">
+            <!-- Initial Home Content -->
+            <section class="hero-section">
+                <h1 class="hero-title">Ласкаво просимо до <span class="gradient-text">TechHaven</span></h1>
+                <p class="hero-subtitle">Найкращий вибір електроніки та гаджетів. Перейдіть до каталогу, щоб побачити асортимент.</p>
+                <button id="hero-catalog-btn" class="btn-large">Переглянути каталог</button>
+            </section>
+        </main>
+
+        <footer class="footer">
+            <p>&copy; 2026 TechHaven. Лабораторна робота №7.</p>
+        </footer>
+    </div>
+
+    <script src="js/app.js"></script>
+</body>
+</html>

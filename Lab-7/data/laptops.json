@@ -1,0 +1,37 @@
+{
+    "categoryName": "Ноутбуки",
+    "items": [
+        {
+            "id": 101,
+            "name": "MacBook Air M2",
+            "shortname": "macbook-air-m2",
+            "description": "Легкий та потужний ноутбук від Apple. Ідеальний для роботи та творчості.",
+            "price": "49 999 ₴",
+            "image": "https://placehold.co/200x200/2c3e50/ecf0f1?text=MacBook+Air"
+        },
+        {
+            "id": 102,
+            "name": "ASUS ROG Zephyrus",
+            "shortname": "asus-rog",
+            "description": "Потужний ігровий ноутбук з відеокартою RTX 4070. Lorem ipsum dolor sit amet.",
+            "price": "75 500 ₴",
+            "image": "https://placehold.co/200x200/e74c3c/ecf0f1?text=ASUS+ROG"
+        },
+        {
+            "id": 103,
+            "name": "Dell XPS 15",
+            "shortname": "dell-xps-15",
+            "description": "Преміальний ультрабук з чудовим OLED дисплеєм.",
+            "price": "68 000 ₴",
+            "image": "https://placehold.co/200x200/34495e/ecf0f1?text=Dell+XPS"
+        },
+        {
+            "id": 104,
+            "name": "Lenovo ThinkPad X1",
+            "shortname": "thinkpad-x1",
+            "description": "Надійний бізнес-ноутбук з найкращою клавіатурою на ринку.",
+            "price": "82 000 ₴",
+            "image": "https://placehold.co/200x200/000000/ffffff?text=ThinkPad+X1"
+        }
+    ]
+}
